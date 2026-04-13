@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://otaeho.github.io/al-folio/sitemap.xml
+Sitemap: https://otaeho.github.io/sitemap.xml
