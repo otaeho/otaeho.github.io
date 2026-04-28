@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-group",
+          title: "group",
+          description: "Current and future members of the research group.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/group/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Selected publications in traffic simulation, intelligent transportation systems, and related fields.",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae of Taeho Oh",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
