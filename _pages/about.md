@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral Research Fellow, <a href='https://tupa.kaist.ac.kr/'>TUPA Lab</a>, KAIST
+subtitle: "Post-doctoral Research Fellow <br> <a href='https://tupa.kaist.ac.kr/'>TUPA Lab</a>, KAIST"
 
 profile:
   align: right
