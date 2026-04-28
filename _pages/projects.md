@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Research projects on traffic simulation, metaverse-based systems, and intelligent transportation.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [research]
 horizontal: false
 ---

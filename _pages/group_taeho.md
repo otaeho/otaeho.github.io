@@ -1,0 +1,1 @@
+I received my Ph.D. in Transportation Engineering from Southeast University, China and Monash University, Australia. My research interests include traffic system integration, metaverse-based simulator development, traffic simulation, and human-factor analysis.

@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Selected publications in traffic simulation, intelligent transportation systems, and related fields.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
