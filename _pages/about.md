@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Post-doctoral Research Fellow  \n <br> <a href='https://mo.kaist.ac.kr/'>Cho Chun Shik Graduate School of Mobility, KAIST</a>"
+subtitle: "<strong>Post-doctoral Research Fellow</strong> <br> <a href='https://mo.kaist.ac.kr/'>Cho Chun Shik Graduate School of Mobility, KAIST</a>"
 
 profile:
   align: right
