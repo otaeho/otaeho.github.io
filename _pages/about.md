@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://tupa.kaist.ac.kr/'>TUPA Lab</a>, <a href='https://mobility.kaist.ac.kr/'>KAIST School of Mobility</a>
+subtitle: Post-doctoral Research Fellow, <a href='https://tupa.kaist.ac.kr/'>TUPA Lab</a>, <a href='https://mobility.kaist.ac.kr/'>KAIST School of Mobility</a>
 
 profile:
   align: right
