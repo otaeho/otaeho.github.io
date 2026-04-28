@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Post-doctoral Research Fellow <br> <a href='https://tupa.kaist.ac.kr/'>TUPA Lab</a>, KAIST"
+subtitle: "Post-doctoral Research Fellow  \n <br> <a href='https://mo.kaist.ac.kr/'>Cho Chun Shik Graduate School of Mobility, KAIST</a>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
-    <p>KAIST</p>
-    <p>291 Daehak-ro, Yuseong-gu</p>
-    <p>Daejeon, South Korea</p>
+  more_info:
 
 selected_papers: true
 social: true
