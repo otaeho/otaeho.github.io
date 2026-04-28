@@ -7,7 +7,7 @@ subtitle: Post-doctoral Research Fellow, <a href='https://tupa.kaist.ac.kr/'>TUP
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Cho Chun Sik Graduate School of Mobility, KAIST </p>
     <p>291 Daehak-ro, Yuseong-gu</p>
