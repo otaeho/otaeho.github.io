@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-15'
 papers:
   GMN93hkAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -22,7 +22,7 @@ papers:
     title: Open-sourced real-time visualization platform for traffic simulation
     year: '2023'
   GMN93hkAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: How do the drivers react to different C-V2X-based communication conditions in dilemma zones? A driving simulator study
     year: '2025'
   GMN93hkAAAAJ:W7OEmFMy1HYC:
@@ -34,7 +34,7 @@ papers:
     title: A Study on Validation of Omnidirectional VR Treadmill by Comparison of Spatial Orientation Skills
     year: '2022'
   GMN93hkAAAAJ:Y0pCki6q_DkC:
-    citations: 7
+    citations: 8
     title: "Enhancing mutual understanding of e-scooter user\u2019s perspective in overtaking maneuver through replaying own driving trajectory"
     year: '2024'
   GMN93hkAAAAJ:YsMSGLbcyi4C:
