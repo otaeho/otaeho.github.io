@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Research projects on traffic simulation, metaverse-based systems, and intelligent transportation.",
+          description: "Research projects organized by funding.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
