@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/news/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae of Taeho Oh",
+          title: "cv",
+          description: "Curriculum Vitae of Taeho Oh, Ph.D.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
