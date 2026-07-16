@@ -56,6 +56,19 @@ _styles: >
     border-radius: 4px;
     vertical-align: middle;
   }
+  .role-badge {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--global-text-color-light);
+    background-color: transparent;
+    border: 1px solid var(--global-text-color-light);
+    border-radius: 4px;
+    vertical-align: middle;
+  }
 ---
 
 ## Ongoing
@@ -66,6 +79,6 @@ _styles: >
 </div>
 
 <div class="project-card">
-  <span class="project-title">Development of Virtual Environment and Demonstration Technology for Automated Driving based on Metaverse</span>
+  <span class="project-title">Development of Virtual Environment and Demonstration Technology for Automated Driving based on Metaverse<span class="role-badge">Co-Researcher</span></span>
   <span class="project-meta">MOLIT &middot; 2023 – 2027</span>
 </div>
