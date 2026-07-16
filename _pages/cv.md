@@ -5,6 +5,30 @@ title: cv
 nav: true
 nav_order: 6
 description: Curriculum Vitae of Taeho Oh, Ph.D.
+_styles: >
+  .post article h2 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    border-bottom: 2px solid var(--global-theme-color);
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  .post article h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    margin-top: 1.25rem;
+    margin-bottom: 0.6rem;
+  }
+  .post article ol,
+  .post article ul {
+    margin-bottom: 1rem;
+  }
+  .post article li {
+    margin-bottom: 0.35rem;
+  }
 ---
 
 **Taeho Oh, Ph.D.**
@@ -44,23 +68,6 @@ Email: [taeho.oh@kaist.ac.kr](mailto:taeho.oh@kaist.ac.kr) &nbsp;·&nbsp; Google
 
 - **Kongju National University**, Cheonan, Korea — *Mar. 2023 – Aug. 2024*
   Lecturer, Department of Urban & Transportation Engineering
-
-## Research Interests
-
-**Infrastructure-based Mixed traffic (CAV, CV and HDV) control**
-
-- Developed a scalable C-V2X infrastructure control framework for real-time interactions and priority management among connected autonomous vehicles (CAVs), connected vehicles (CVs), and human-driven vehicles (HDVs).
-- Designed infrastructure-based decision structures containing a customized message set (speed, acceleration and steering) to regulate the priority and trajectory of intersection-approaching vehicles under mixed traffic conditions.
-
-**Metaverse-based multimodal virtual testing for sim-to-real gap mitigation**
-
-- Integrated digital twin–based co-simulation with traffic simulators (SUMO, VISSIM) to generate naturalistic traffic environments by embedding realistic traffic dynamics into surrounding vehicles, enabling high-fidelity evaluation of autonomous driving systems.
-- Established a digital twin–based testbed platform to mitigate the sim-to-real gap, supporting safe, repeatable and scalable validation of autonomous driving algorithms in multimodal traffic scenarios involving HDVs, pedestrians, and other vulnerable road users.
-
-**Human-machine interaction based behavior modeling**
-
-- Modeled driver decision-making and cognitive load in complex scenarios (e.g., overtaking) using multi-agent simulators and EEG-based analysis to quantify human factors.
-- Analyzed interactions between vehicles and vulnerable road users to develop human-centric safety algorithms that enhance the predictability and social acceptance of autonomous systems.
 
 ## Publications
 
