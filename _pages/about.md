@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: "<strong>Post-doctoral Research Fellow</strong> <br> <a href='https://mo.kaist.ac.kr/'>Cho Chun Shik Graduate School of Mobility, KAIST</a>"
 
