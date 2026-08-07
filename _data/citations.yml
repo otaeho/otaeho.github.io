@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-07'
 papers:
   GMN93hkAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -14,7 +14,7 @@ papers:
     title: "Driving Risk Analysis Based on Driving Experience at Hook\u2010Turn Intersection Using the Emerging Virtual Reality Technology"
     year: '2022'
   GMN93hkAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: 'Micro mobility safety challenges: a study on drivers overtaking bicycles and E-scooters in relation to road conditions and prior riding experience'
     year: '2026'
   GMN93hkAAAAJ:UeHWp8X0CEIC:
@@ -62,6 +62,6 @@ papers:
     title: Are shared streets acceptable to pedestrians and drivers? Evidence from Virtual Reality experiments
     year: '2022'
   GMN93hkAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: Studying freeway merging conflicts using virtual reality technology
     year: '2021'
