@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-28'
 papers:
   GMN93hkAAAAJ:2osOgNQ5qMEC:
-    citations: 8
+    citations: 10
     title: The impact of information delivery systems in tunnels depending on lighting intensity and speed limit
     year: '2025'
   GMN93hkAAAAJ:8k81kl-MbHgC:
@@ -17,12 +17,16 @@ papers:
     citations: 2
     title: 'Micro mobility safety challenges: a study on drivers overtaking bicycles and E-scooters in relation to road conditions and prior riding experience'
     year: '2026'
+  GMN93hkAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'Impact of C-V2X-enabled stop/go advisory system on driving behavior in yellow-light dilemmas: evidence from a bivariate copula model'
+    year: '2026'
   GMN93hkAAAAJ:UeHWp8X0CEIC:
-    citations: 18
+    citations: 19
     title: Open-sourced real-time visualization platform for traffic simulation
     year: '2023'
   GMN93hkAAAAJ:UebtZRa9Y70C:
-    citations: 3
+    citations: 4
     title: How do the drivers react to different C-V2X-based communication conditions in dilemma zones? A driving simulator study
     year: '2025'
   GMN93hkAAAAJ:W7OEmFMy1HYC:
@@ -34,7 +38,7 @@ papers:
     title: A Study on Validation of Omnidirectional VR Treadmill by Comparison of Spatial Orientation Skills
     year: '2022'
   GMN93hkAAAAJ:Y0pCki6q_DkC:
-    citations: 8
+    citations: 9
     title: "Enhancing mutual understanding of e-scooter user\u2019s perspective in overtaking maneuver through replaying own driving trajectory"
     year: '2024'
   GMN93hkAAAAJ:YsMSGLbcyi4C:
@@ -42,11 +46,11 @@ papers:
     title: Tour-based Personalized Trip Analysis and Calibration Method for Activity-based Traffic Demand Modelling
     year: '2023'
   GMN93hkAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: "Exploring Safe Overtaking Behavior on Two\u2010Lane Two\u2010Way Road Using Multiagent Driving Simulators and Traffic Simulation"
     year: '2024'
   GMN93hkAAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: Volume delay function calibration based on GPS trajectory data
     year: '2021'
   GMN93hkAAAAJ:eQOLeE2rZwMC:
@@ -58,7 +62,7 @@ papers:
     title: 'Explore the Applicability of Shared Streets with Virtual Reality Technology: A Case Study of Suzhou, China'
     year: '2021'
   GMN93hkAAAAJ:u-x6o8ySG0sC:
-    citations: 15
+    citations: 17
     title: Are shared streets acceptable to pedestrians and drivers? Evidence from Virtual Reality experiments
     year: '2022'
   GMN93hkAAAAJ:u5HHmVD_uO8C:
