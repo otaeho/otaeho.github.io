@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   GMN93hkAAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: The impact of information delivery systems in tunnels depending on lighting intensity and speed limit
     year: '2025'
   GMN93hkAAAAJ:8k81kl-MbHgC:
@@ -10,7 +10,7 @@ papers:
     title: Scalable and interoperable C-V2X framework for real-time intelligent decision support in autonomous mobility
     year: '2026'
   GMN93hkAAAAJ:9yKSN-GCB0IC:
-    citations: 6
+    citations: 7
     title: "Driving Risk Analysis Based on Driving Experience at Hook\u2010Turn Intersection Using the Emerging Virtual Reality Technology"
     year: '2022'
   GMN93hkAAAAJ:MXK_kJrjxJIC:
@@ -62,7 +62,7 @@ papers:
     title: 'Explore the Applicability of Shared Streets with Virtual Reality Technology: A Case Study of Suzhou, China'
     year: '2021'
   GMN93hkAAAAJ:u-x6o8ySG0sC:
-    citations: 17
+    citations: 18
     title: Are shared streets acceptable to pedestrians and drivers? Evidence from Virtual Reality experiments
     year: '2022'
   GMN93hkAAAAJ:u5HHmVD_uO8C:
